@@ -1,0 +1,98 @@
+# Virtual Environment
+cattle_mvp_env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# YOLO model weights
+*.pt
+*.weights
+*.pth
+*.h5
+*.hdf5
+*.bin
+
+# Dataset directories
+data/
+datasets/
+data_*/**
+*.zip
+*.tar.gz
+*.tar
+*.7z
+*.npz
+*.npy
+*.pkl
+*.pth
+*.pt
+*.h5
+*.hdf5
+*.bin
+
+# Model checkpoints
+checkpoints/
+models/**/*.pth
+models/**/*.pt
+models/**/*.h5
+models/**/*.hdf5
+models/**/*.bin
+
+# Training outputs
+runs/
+outputs/
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+*.db
+
+# Large files
+*.pdf
+*.PDF
+*.docx
+*.doc
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.wav
+
+# Temporary files
+*~
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Local development
+.env
+.env.local
+.env.*.local
+
+# Project specific
+results/
+notebooks/
+*.ipynb_checkpoints

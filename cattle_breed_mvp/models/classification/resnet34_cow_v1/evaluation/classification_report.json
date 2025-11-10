@@ -1,0 +1,45 @@
+{
+  "Gir": {
+    "precision": 0.8958333333333334,
+    "recall": 0.9635854341736695,
+    "f1-score": 0.9284750337381916,
+    "support": 357.0
+  },
+  "Holstein Friesian": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 159.0
+  },
+  "Jersey": {
+    "precision": 1.0,
+    "recall": 0.002288329519450801,
+    "f1-score": 0.0045662100456621,
+    "support": 437.0
+  },
+  "Red Sindhi": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "Sahiwal": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 0.0
+  },
+  "accuracy": 0.3620146904512067,
+  "macro avg": {
+    "precision": 0.3791666666666667,
+    "recall": 0.19317475273862406,
+    "f1-score": 0.18660824875677076,
+    "support": 953.0
+  },
+  "weighted avg": {
+    "precision": 0.7941369359916055,
+    "recall": 0.3620146904512067,
+    "f1-score": 0.3499066325650459,
+    "support": 953.0
+  }
+}
